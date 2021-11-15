@@ -27,3 +27,6 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+git+https://github.com/casicoco/sharedproject.git
+git+https://github.com/alexroy0/alex_public_project.git
